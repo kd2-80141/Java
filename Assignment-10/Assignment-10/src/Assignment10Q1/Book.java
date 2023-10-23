@@ -20,7 +20,7 @@ public class Book {
 	String author;
 	int quantity;
 	double price;
-	public Book() {
+	public Book(String isbn2, double d, String string, int i) {
 		
 			}
 	public Book(String isbn, String title, String author, int quantity, double price) {
